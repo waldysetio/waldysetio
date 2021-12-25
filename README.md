@@ -3,16 +3,16 @@ My name is Waldy Setiono. Welcome to my Github.<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/waldysetiono/)
 
 # My proficiencies:
--Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, SciPy, GeoPandas, Statsmodel).
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, SciPy, GeoPandas, Statsmodel)
 - Machine Learning (Linear/Logistic Regression, Decision Trees, Random Forest, Gradient Boosted Trees, Neural Networks, KNN, SVM, Naive Bayes, PCA, SVD, etc.); ML for classification, forecasting, clustering, recommender engine, fraud detection, etc.
-- SQL.
-- ML Development (Git/Version Control, CI/CD, Bash, ML Development on Google Cloud Platform and Amazon Web Service (SageMaker), Model Deployment and API Development using Flask and FastAPI).
-- Data Science Workflow (Data Preparation, Exploratory Data Analysis, Feature Engineering, Machine Learning Modeling, Deployment, and Evaluation).
-[![Python Badge](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)
+- SQL
+- ML Development (Git/Version Control, CI/CD, Bash, ML Development on Google Cloud Platform and Amazon Web Service (SageMaker), Model Deployment and API Development using Flask and FastAPI)
+- Data Science Workflow (Data Preparation, Exploratory Data Analysis, Feature Engineering, Machine Learning Modeling, Deployment, and Evaluation)
+
 
 <!--
 **waldysetio/waldysetio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Python Badge](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
