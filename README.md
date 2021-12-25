@@ -6,6 +6,7 @@ My name is Waldy Setiono. Welcome to my Github.<br/>
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch, SciPy, GeoPandas, Statsmodel)
 - Machine Learning (Linear/Logistic Regression, Decision Trees, Random Forest, Gradient Boosted Trees, Neural Networks, KNN, SVM, Naive Bayes, PCA, SVD, etc.); ML for classification, forecasting, clustering, recommender engine, fraud detection, etc.
 - SQL
+- Tableau
 - ML Development (Git/Version Control, CI/CD, Bash, ML Development on Google Cloud Platform and Amazon Web Service (SageMaker), Model Deployment and API Development using Flask and FastAPI)
 - Data Science Workflow (Data Preparation, Exploratory Data Analysis, Feature Engineering, Machine Learning Modeling, Deployment, and Evaluation)
 
