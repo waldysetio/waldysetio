@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 My name is Waldy Setiono. Welcome to my Github.<br/>
-
+I am a fresh graduate with strong foundational knowledge in statistics, machine learning, and programming. I have gained experience in creating end-to-end data science projects to solve some major business problems through virtual internships, online courses, and final project in college. As an intellectually curious person who is comfortable working independently and collaboratively, I am always eager to learn and keep abreast of state-of-the-art technology in data science and beyond.<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/waldysetiono/)
 
+# Tech Stacks:
+[![Python Badge](https://img.shields.io/badge/python-v3.7-blue)]
 <!--
 **waldysetio/waldysetio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
