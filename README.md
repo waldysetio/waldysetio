@@ -5,8 +5,8 @@ I am a fresh graduate with strong foundational knowledge in statistics, machine 
 
 # Tech Stacks:
 
-[![Python Badge](https://simpleicons.org/icons/python.svg)](https://www.python.org/)
 [![Python Badge](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)
+
 <!--
 **waldysetio/waldysetio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
