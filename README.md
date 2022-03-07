@@ -2,7 +2,7 @@
 ## My name is Waldy Setiono. Welcome to my GitHub profile.<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/waldysetiono/)
 
-I am a fresh graduate with strong foundational knowledge in software engineering and machine learning. I have gained experience in creating end-to-end data science projects to solve some major business problems through virtual internships, online courses, and final project in college. As an intellectually curious person who is comfortable working independently and collaboratively, I am always eager to learn and keep abreast of state-of-the-art technology in data science and beyond.
+I am a fresh graduate with strong foundational knowledge in software engineering and machine learning. I have gained experience in creating end-to-end data science projects to solve some business problems through virtual internships, online courses, and final project in college. As an intellectually curious person who is comfortable working independently and collaboratively, I am always eager to learn and keep abreast of state-of-the-art technology in data science and beyond.
 
 Some of the projects that I have built are:
 1. Churn modeling using Extreme Gradient Boosting based on more than 193.000 rows of customers' activity and price history data to predict customers' propensity to churn and understand what factors that contribute to the churn. 
