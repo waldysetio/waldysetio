@@ -2,7 +2,6 @@
 ## My name is Waldy Setiono. Welcome to my GitHub profile.<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/waldysetiono/)
 
-# My proficiencies:
 I am a fresh graduate with strong foundational knowledge in software engineering and machine learning. I have gained experience in creating end-to-end data science projects to solve some major business problems through virtual internships, online courses, and final project in college. As an intellectually curious person who is comfortable working independently and collaboratively, I am always eager to learn and keep abreast of state-of-the-art technology in data science and beyond.
 
 Some of the projects that I have built are:
