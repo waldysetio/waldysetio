@@ -12,7 +12,7 @@ Some of the projects that I have built are:
 5. Web scraper and Telegram Bot to parse earthquake data from BMKG website and send the latest earthquake information to telegram app automatically. 
 
 My proficiencies are (but not limited to):
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Python (PySpark, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Machine Learning
 - SQL (MySQL, PostgreSQL)
 - Git/Version Control, Google Cloud Platform, Flask, Django
