@@ -14,8 +14,10 @@ Some of the projects that I have built are:
 My proficiencies are (but not limited to):
 - Python (PySpark, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Machine Learning
-- SQL (MySQL, PostgreSQL)
-- Git/Version Control, Google Cloud Platform, Flask, Django
+- SQL
+- Git/Version Control
+- Google Cloud Platform 
+- Flask
 - Data Science Workflow (Data Preparation, Exploratory Data Analysis, Feature Engineering, Machine Learning Modeling, Deployment, and Evaluation).
 
 <!--
