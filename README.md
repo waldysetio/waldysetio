@@ -17,7 +17,7 @@
 ## 🎓 Education
 
 **Universitas Gadjah Mada**  
-Bachelor of Science, Department of Computer Science, majoring in Electronics and Instrumentation  
+Bachelor of Science, Department of Computer Science and Electronics, majoring in Electronics and Instrumentation  
 
 ---
 
