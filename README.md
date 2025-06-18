@@ -1,18 +1,45 @@
-# Hi there 👋
-## My name is Waldy Setiono. Welcome to my GitHub profile.<br/>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/waldysetiono/)
+# 👋 Hi, I'm Waldy Setiono.
 
-<!--
-**waldysetio/waldysetio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Python Badge](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)
-Here are some ideas to get you started:
+**Backend Software Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+
+### 🔹 Software Engineer (Backend)  
+**tiket.com** | May 2022 – Present  
+
+### 🔹 Software Engineer Trainee  
+**Digitalent** | May 2021 – Nov 2021 (Remote)  
+
+---
+
+## 🎓 Education
+
+**Universitas Gadjah Mada**  
+Bachelor of Science, Department of Computer Science, majoring in Electronics and Instrumentation  
+
+---
+
+## 🛠️ Skills
+
+**Languages & Frameworks**  
+- Java, Golang  
+- Spring Boot, RESTful API, Kafka, Redis, MySQL, MongoDB, Git, Docker
+
+
+---
+
+## 📈 GitHub Stats
+
+![Waldy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://linkedin.com/in/waldysetiono)
+- 📝 [Medium](https://medium.com/@waldysetio)
+- 💻 [Leetcode](https://leetcode.com/u/waldysetio/)
+- 📧 waldysetiono@gmail.com
+
