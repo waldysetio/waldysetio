@@ -45,8 +45,8 @@ Bachelor of Science, Department of Computer Science and Electronics, majoring in
 
 ## 📫 Get in Touch
 <p align="left">
-  <a href="https://linkedin.com/in/waldysetiono/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@waldysetio/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/waldysetio/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:waldysetiono@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/waldysetiono/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@waldysetio/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/waldysetio/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:waldysetiono@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
