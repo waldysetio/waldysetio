@@ -44,7 +44,7 @@ Bachelor of Science, Department of Computer Science and Electronics, majoring in
 ---
 
 ## 📫 Get in Touch
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/waldysetiono/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@waldysetio/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://leetcode.com/u/waldysetio/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
